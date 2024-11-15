@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">MovieList</string>
+
+    <string-array name="movieName">
+        <item>Iron Man</item>
+        <item>Captain America: Civil War</item>
+        <item>Man of Steel</item>
+        <item>Thor: Ragnarok</item>
+        <item>The Dark Knight</item>
+        <item>The Batman</item>
+        <item>Spider-man: Homecoming</item>
+        <item>Avengers: Endgame</item>
+        <item>Spider-man: No Way Home</item>
+    </string-array>
+
+    <string-array name="movieYear">
+        <item>2008</item>
+        <item>2016</item>
+        <item>2013</item>
+        <item>2017</item>
+        <item>2008</item>
+        <item>2022</item>
+        <item>2017</item>
+        <item>2019</item>
+        <item>2021</item>
+    </string-array>
+
+    <string-array name="movieRating">
+        <item>IMDB: 7.9/10</item>
+        <item>IMDB: 7.8/10</item>
+        <item>IMDB: 7.1/10</item>
+        <item>IMDB: 7.9/10</item>
+        <item>IMDB: 9/10</item>
+        <item>IMDB: 7.8/10</item>
+        <item>IMDB: 7.4/10</item>
+        <item>IMDB: 8.4/10</item>
+        <item>IMDB: 8.2/10</item>
+    </string-array>
+
+    <string-array name="movieDirector">
+        <item>Director: Jon Favreau</item>
+        <item>Directors: Anthony and Joe Russo</item>
+        <item>Director: Zack Snyder</item>
+        <item>Director: Taika Waititi</item>
+        <item>Director: Christopher Nolan</item>
+        <item>Director: Matt Reeves</item>
+        <item>Director: Jon Watts</item>
+        <item>Directors: Joe and Anthony Russo</item>
+        <item>Director: Jon Watts</item>
+    </string-array>
+
+    <integer-array name="moviePoster">
+        <item>@drawable/ironman2008</item>
+        <item>@drawable/captainamericacivilwar2016</item>
+        <item>@drawable/manofsteel2013</item>
+        <item>@drawable/thorragnarok2017</item>
+        <item>@drawable/thedarkknight2008</item>
+        <item>@drawable/thebatman2022</item>
+        <item>@drawable/spidermanhomecoming2017</item>
+        <item>@drawable/avengersendgame2019</item>
+        <item>@drawable/spidermannowayhome2021</item>
+    </integer-array>
+
+
+</resources>
